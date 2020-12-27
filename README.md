@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
 [![jmaciel33's github stats](https://github-readme-stats.jmaciel33.vercel.app/api?username=jmaciel33&count_private=true&show_icons=true&theme=dracula)](https://github.com/jmaciel33/github-readme-stats)
 
 
