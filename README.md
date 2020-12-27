@@ -1,6 +1,6 @@
-### Hi there, I'm Julio 👋
+### Hi there, I'm Julio 👋 ![Twitter Follow](https://img.shields.io/twitter/follow/jcemaciel?style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jcemaciel?style=social)
+
 
 <!--
 **jmaciel33/jmaciel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
