@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play Fifa 21 and Fortnite and I hate Açai
 <!-- - 🤔 I’m looking for help with -->
-<br/>
 
 ### Connect with me:
 
