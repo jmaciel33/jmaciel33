@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
 ### Connect with me:
 
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br/>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
