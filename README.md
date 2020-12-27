@@ -2,9 +2,6 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Jetpill
 - 🌱 I’m currently learning how to build high scalable systems
 - 👯 I’m looking to collaborate on Open Source projects
