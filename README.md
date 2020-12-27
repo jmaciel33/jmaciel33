@@ -20,12 +20,11 @@
 
 
 <br/>
-<br/>
 
 ### :zap: GitHub Stats
 <br/>
 
-[![jmaciel33's github stats](https://github-readme-stats.jmaciel33.vercel.app/api?username=jmaciel33&count_private=true&show_icons=true&theme=dracula)](https://github.com/jmaciel33/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaciel33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![jmaciel33's github stats](https://github-readme-stats.jmaciel33.vercel.app/api?username=jmaciel33&count_private=true&show_icons=true&theme=dracula)](https://github.com/jmaciel33/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaciel33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/jcemaciel
