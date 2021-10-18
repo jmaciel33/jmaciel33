@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Jetpill
+- 🔭 I’m currently working on @Accenture
 - 🌱 I’m currently learning how to build high scalable systems
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about anything
