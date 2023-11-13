@@ -1,8 +1,6 @@
 ### Hi there, I'm Julio 👋  ![Twitter Follow](https://img.shields.io/twitter/follow/jcemaciel?style=social)
 
 
-
-- 🔭 I’m currently working on @Accenture
 - 🌱 I’m currently learning how to build high scalable systems
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about anything
