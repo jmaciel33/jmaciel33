@@ -6,7 +6,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: jmaciel33@gmail.com or send a dm on twitter [<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play EA Sports FC 24, Fortnite and I hate Açai
+- ⚡ Fun fact: I like to play EA Sports FC 25, Fortnite and I hate Açai
 <!-- - 🤔 I’m looking for help with -->
 
 ### Connect with me:
